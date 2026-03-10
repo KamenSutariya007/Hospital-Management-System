@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "68e0032657c31cb0b199b0e9"
+  },
+  "userName": "patient",
+  "email": "patient@gmail.com",
+  "password": "$2b$10$ppjFESWbZFFhYKQAT.xwSeExJdyoUdB66iXWghLeWFie2quMXvKty",
+  "role": "patient",
+  "phoneNumber": "",
+  "dateOfBirth": null,
+  "gender": "",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zipCode": ""
+  },
+  "emergencyContact": {
+    "name": "",
+    "relationship": "",
+    "phoneNumber": ""
+  },
+  "medicalHistory": [
+    {
+      "condition": "",
+      "medications": [
+        {
+          "name": "lfdlfl",
+          "dosage": "fsfnsk",
+          "frequency": "5 times",
+          "_id": {
+            "$oid": "68e00936082f88c40e5ba7d0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68e00936082f88c40e5ba7cf"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "68e0036f57c31cb0b199b0ec"
+  },
+  "userName": "doctor",
+  "email": "doctor@gmail.com",
+  "password": "$2b$10$1Rqb4MCOL6xOAjgoa.SOXOOrbsSVTP0GhhsneDCxapt1Hhg9AjCXS",
+  "role": "doctor",
+  "phoneNumber": "",
+  "dateOfBirth": null,
+  "gender": "",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zipCode": ""
+  },
+  "emergencyContact": {
+    "name": "",
+    "relationship": "",
+    "phoneNumber": ""
+  },
+  "medicalHistory": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e003b857c31cb0b199b0ef"
+  },
+  "userName": "nurse",
+  "email": "nurse@gmail.com",
+  "password": "$2b$10$ZmMWIJI1PsduVBx1EDMBQOZ9PlEYTtpmjqkugmRQFy/k3NKImwxca",
+  "role": "nurse",
+  "phoneNumber": "",
+  "dateOfBirth": null,
+  "gender": "",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zipCode": ""
+  },
+  "emergencyContact": {
+    "name": "",
+    "relationship": "",
+    "phoneNumber": ""
+  },
+  "medicalHistory": [
+    {
+      "condition": "",
+      "medications": [
+        {
+          "name": "lfdlfl",
+          "dosage": "fsfnsk",
+          "frequency": "5 times",
+          "_id": {
+            "$oid": "68e00922082f88c40e5ba7c8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68e00922082f88c40e5ba7c7"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "68e003ed57c31cb0b199b0f2"
+  },
+  "userName": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$kqimQFqBUHrXRaciy9cwI.ubwVscUjscT/7fr2eRAkNmR6yxkQ1pO",
+  "role": "admin",
+  "phoneNumber": "",
+  "dateOfBirth": null,
+  "gender": "",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zipCode": ""
+  },
+  "emergencyContact": {
+    "name": "",
+    "relationship": "",
+    "phoneNumber": ""
+  },
+  "medicalHistory": [
+    {
+      "condition": "",
+      "medications": [
+        {
+          "name": "lfdlfl",
+          "dosage": "fsfnsk",
+          "frequency": "5 times",
+          "_id": {
+            "$oid": "68e0092f082f88c40e5ba7cc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68e0092f082f88c40e5ba7cb"
+      }
+    }
+  ],
+  "__v": 1
+}]

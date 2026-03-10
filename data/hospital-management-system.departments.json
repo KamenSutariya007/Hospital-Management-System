@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "68e001404e3c0ec2e616580c"
+  },
+  "name": "Cardiology",
+  "description": "Department specializing in heart and vascular system treatments.",
+  "head": "652f8b3a9c12a4a7f8d45e91",
+  "staff": [
+    "652f8c2b9c12a4a7f8d45e92",
+    "652f8c3d9c12a4a7f8d45e93"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68e002bf4e3c0ec2e6165811"
+  },
+  "name": "Neurology",
+  "description": "Department focusing on brain and nervous system disorders.",
+  "head": "652f8b9e9c12a4a7f8d45e95",
+  "staff": [
+    "652f8c6a9c12a4a7f8d45e96",
+    "652f8c7c9c12a4a7f8d45e97",
+    "652f8c8e9c12a4a7f8d45e98"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68e002bf4e3c0ec2e6165812"
+  },
+  "name": "Orthopedics",
+  "description": "Department for bone, joint, and muscle care.",
+  "head": "652f8bbf9c12a4a7f8d45e99",
+  "staff": [
+    "652f8c9f9c12a4a7f8d45ea0",
+    "652f8cb19c12a4a7f8d45ea1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68e004d74e3c0ec2e6165817"
+  },
+  "name": "Pediatrics",
+  "description": "Department that provides medical care for infants, children, and adolescents.",
+  "head": "652f8cd29c12a4a7f8d45ea2",
+  "staff": [
+    "652f8ce49c12a4a7f8d45ea3",
+    "652f8cf69c12a4a7f8d45ea4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68e004d74e3c0ec2e6165818"
+  },
+  "name": "Dermatology",
+  "description": "Department specializing in skin, hair, and nail disorders.",
+  "head": "652f8d189c12a4a7f8d45ea5",
+  "staff": [
+    "652f8d2a9c12a4a7f8d45ea6",
+    "652f8d3c9c12a4a7f8d45ea7",
+    "652f8d4e9c12a4a7f8d45ea8"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68e004d74e3c0ec2e6165819"
+  },
+  "name": "Radiology",
+  "description": "Department responsible for diagnostic imaging services such as X-rays, CT scans, and MRI.",
+  "head": "652f8d609c12a4a7f8d45ea9",
+  "staff": [
+    "652f8d729c12a4a7f8d45eaa",
+    "652f8d849c12a4a7f8d45eab"
+  ]
+}]
